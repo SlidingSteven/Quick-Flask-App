@@ -14,3 +14,17 @@ For now all I am adding is a home page with a simple line of text. I will treat 
 - Get a direction to start moving in.
 - Make a couple simple bootstrap pages
 - Get it posted on Heroku
+
+# To Run
+
+You will need Python 3.7.2 and pipenv-
+```
+python -m pipenv install
+python -m pipenv shell
+```
+
+Navigate over to the folder with "app.py" and from command line run-
+```
+python app.py
+```
+You can then view the site at (http://127.0.0.1:5000/)
