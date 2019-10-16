@@ -7,7 +7,7 @@ Some things I want to encorporate as time goes on is-
 - HTML/CSS Bootstrap pages
 - SQL queries to display some data
 - Possibly use an online API to do the same?
-- maybe some pictures/logos to describe what your project is about?
+- maybe some pictures logos to describe what your project is about?
 But for now I just want to make a base flask app that can be used as the root for a number of ideas.
 
 For now all I am adding is a home page with a simple line of text. I will treat this as an agile project and set some goals for this first two week sprint.
