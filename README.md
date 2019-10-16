@@ -7,6 +7,7 @@ Some things I want to encorporate as time goes on is-
 - HTML/CSS Bootstrap pages
 - SQL queries to display some data
 - Possibly use an online API to do the same?
+- Maybe some pictures and/or logos to describe what your project is about?
 
 But for now I just want to make a base flask app that can be used as the root for a number of ideas.
 
